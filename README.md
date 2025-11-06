@@ -1,6 +1,6 @@
 # 🗣️ 音声からの身長推定ツール (F0 & VTLモデル)
 
-(https://colab.research.google.com/github/yakimisan/voice-height-estimator/blob/main/wavファイルの母音のｆ0から身長を推定.ipynb)
+[![Open In Colab]](https://colab.research.google.com/github/yakimisan/voice-height-estimator/blob/main/wavファイルの母音のｆ0から身長を推定.ipynb)
 これは、アップロードされた音声ファイルから「声の高さ(F0)」と「声の響き(VTL)」を分析し、2つの異なる音響学モデルに基づいて身長を推定するGoogle Colabツールです。
 
 ## 🚀 使い方 (How to Use)

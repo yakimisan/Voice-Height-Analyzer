@@ -39,37 +39,6 @@ F0（声帯の振動）とは異なり、VTL（管の長さ）は発声の癖（
 
 ---
 
-##⚠️ 免責事項と利用上の注意 (Disclaimer & Limitations)
-本ツールは、音響学の理論に基づく統計的な推定であり、その精度を保証するものではありません。発話内容、マイクの品質、環境ノイズ、発声の癖によって結果は大きく変動します。
-
-エンターテイメント目的の利用: 本ツールの推定結果は、あくまで音響学的な参考値として、エンターテイメントの範囲でお楽しみください。 正確な身長を示すものではありません。
-
-利用者の責任と禁止事項: 本ツールの利用は、すべて利用者ご自身の責任において行ってください。
-
-特に、許可なく第三者（自分以外）の音声を本ツールで分析し、その推定結果をインターネット上で公開する行為は、対象者のプライバシーを侵害し、法的な問題（名誉毀損、個人情報の保護に関する法律の違反など）を引き起こす重大な恐れがあります。
-
-本ツールを、個人の特定、他者の名誉毀損、またはその他の違法な目的・犯罪行為に利用することを固く禁じます。
-
-ライセンスに基づく無保証: 本ツールの使用、またはその結果の利用によって生じたいかなる損害（データの損失、法的な紛争を含む）についても、製作者(yakimi)は一切の責任を負いません。
-
-本プロジェクトはMITライセンスに基づき提供されており、「現状有姿のまま (AS IS)」で提供されます。製作者は、本ソフトウェアの動作、特定目的への適合性、または結果の正確性について、一切の保証を行いません。
-
-## 📚 参考文献 (References)
-
-このツールで採用している理論は、以下の研究に基づいています。
-
-#### 1. F0と身長の相関
-* **Hatano, H., Kitamura, T., Takemoto, H., Mokhtari, P., Honda, K., & Masaki, S. (2012).** "Correlation between vocal tract length, body height, formant frequencies, and pitch frequency for the five Japanese vowels uttered by fifteen male speakers". *Proceedings of Interspeech 2012*.
-
-#### 2. VTL（フォルマント・声道長）と身長の相関
-* **Fant, G. (1960).** *Acoustic theory of speech production*. Mouton.
-* **Stevens, K. N. (1998).** *Acoustic phonetics*. MIT press.
-* **Fitch, W. T., & Giedd, J. (1999).** "Morphology and development of the human vocal tract: A study using magnetic resonance imaging". *Journal of the Acoustical Society of America*, 106(3), 1511-1522.
-
-## 👤 製作者 (Author)
-
-* **yakimi**
-
 ## ⚠️ 免責事項 (Disclaimer)
 
 * [日本語] 本ツールは、音響学の理論に基づく統計的な推定であり、その精度を保証するものではありません。発話内容、マイクの品質、環境ノイズ、発声の癖によって結果は大きく変動します。
@@ -108,3 +77,22 @@ In particular, under Article 2 (Restrictions) of this license, **the following a
 2.  **Using the tool for personal identification, defamation, or any other illegal or criminal purpose.**
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+---
+## 📚 参考文献 (References)
+
+このツールで採用している理論は、以下の研究に基づいています。
+
+#### 1. F0と身長の相関
+* **Hatano, H., Kitamura, T., Takemoto, H., Mokhtari, P., Honda, K., & Masaki, S. (2012).** "Correlation between vocal tract length, body height, formant frequencies, and pitch frequency for the five Japanese vowels uttered by fifteen male speakers". *Proceedings of Interspeech 2012*.
+
+#### 2. VTL（フォルマント・声道長）と身長の相関
+* **Fant, G. (1960).** *Acoustic theory of speech production*. Mouton.
+* **Stevens, K. N. (1998).** *Acoustic phonetics*. MIT press.
+* **Fitch, W. T., & Giedd, J. (1999).** "Morphology and development of the human vocal tract: A study using magnetic resonance imaging". *Journal of the Acoustical Society of America*, 106(3), 1511-1522.
+
+## 👤 製作者 (Author)
+
+* **yakimi**
+
+

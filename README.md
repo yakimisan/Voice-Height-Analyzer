@@ -70,6 +70,41 @@ F0（声帯の振動）とは異なり、VTL（管の長さ）は発声の癖（
 
 * **yakimi**
 
-## 📜 ライセンス (License)
+## ⚠️ 免責事項 (Disclaimer)
+
+* [日本語] 本ツールは、音響学の理論に基づく統計的な推定であり、その精度を保証するものではありません。発話内容、マイクの品質、環境ノイズ、発声の癖によって結果は大きく変動します。
+* [English] This tool is a statistical estimation based on acoustic theory, and its accuracy is not guaranteed. Results may vary significantly depending on speech content, microphone quality, environmental noise, and vocal habits.
+
+* [日本語] 本ツールの推定結果は、あくまで音響学的な参考値として、エンターテイメントの範囲でお楽しみください。 正確な身長を示すものではありません。
+* [English] The estimation results of this tool should be enjoyed within the scope of entertainment as purely acoustic reference values. They do not indicate exact height.
+
+* [日本語] 本ツールの利用は、すべて利用者ご自身の責任において行ってください。本ツールの使用、またはその結果の利用によって生じたいかなる損害（データの損失、法的な紛争を含む）についても、製作者(yakimi)は一切の責任を負いません。
+* [English] Use of this tool is entirely at your own risk. The author (yakimi) assumes no responsibility for any damages (including data loss or legal disputes) arising from the use of this tool or its results.
+
+## 📜 ライセンスと利用上の禁止事項 (License & Prohibitions)
+
+[日本語]
+本ソフトウェアは、製作者（やきみ）が定める独自の利用許諾契約書（カスタムライセンス）のもとで提供されます。
+ご利用の前に、必ず以下のライセンス全文をお読みください。
+
+[English]
+This software is provided under a custom Software License Agreement defined by the author (やきみ).
+Please read the full license text before using the software.
+
+➡️ **[LICENSE.txt (利用許諾契約書 全文 / Full License Agreement)](LICENSE.txt)**
+
+[日本語]
+本ソフトウェアを利用した時点で、ライセンス全文に同意したものとみなされます。
+特に、本ライセンスの第2条（制限事項）に基づき、**以下の行為は固く禁止されています。**
+
+1.  **許可なく第三者（自分以外）の音声を分析し、その推定結果をインターネット上で公開する行為。**
+2.  **個人の特定、他者の名誉毀損、またはその他の違法な目的・犯罪行為に利用すること。**
+
+[English]
+By using this software, you agree to be bound by all terms of the license.
+In particular, under Article 2 (Restrictions) of this license, **the following acts are strictly prohibited:**
+
+1.  **Analyzing the voice of a third party (anyone other than yourself) without permission and publishing the estimated results online.**
+2.  **Using the tool for personal identification, defamation, or any other illegal or criminal purpose.**
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
